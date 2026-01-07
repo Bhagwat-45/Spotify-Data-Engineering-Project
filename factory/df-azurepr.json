@@ -1,0 +1,9 @@
+{
+	"name": "df-azurepr",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a7e9770-de0f-49ad-a970-50eda0b35b7a",
+		"tenantId": "74c129d6-75e9-47bc-89e7-fc64baa89a47"
+	}
+}
